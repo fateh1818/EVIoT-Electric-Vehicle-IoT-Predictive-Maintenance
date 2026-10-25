@@ -62,8 +62,8 @@ projet/
 
 ## 🚀 Feuille de Route Méthodologique
 - [x] **Phase 0** : Mise en place de la structure, des dépendances et du versioning Git.
-- [ ] **Phase 1** : Compréhension des données, dictionnaire des variables et sélection de la cible.
-- [ ] **Phase 2** : Nettoyage rigoureux des données (valeurs manquantes, doublons, cohérence physique).
+- [x] **Phase 1** : Compréhension des données, dictionnaire des variables et sélection de la cible (`Failure_Probability`).
+- [x] **Phase 2** : Nettoyage rigoureux des données (types, dates, analyse IQR des valeurs extrêmes, cohérence physique).
 - [ ] **Phase 3** : Analyse exploratoire approfondie (EDA) et contrôle des fuites d'information.
 - [ ] **Phase 4** : Préparation, feature engineering et Pipeline de transformation.
 - [ ] **Phase 5** : Modélisation supervisée (Baseline, Random Forest, XGBoost/LightGBM).
